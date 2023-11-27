@@ -7,7 +7,7 @@ const search = function(){
     });
     searchBtn.addEventListener('click', () =>{
         console.log('click', input.value);
-    })
+    });
 
 }
 
